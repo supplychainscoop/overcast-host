@@ -1,0 +1,32 @@
+
+  <?xml version="1.0" encoding="UTF-8"?>
+  <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>My Audiobook</title>
+    <link></link>
+    <language></language>
+    <copyright>NA</copyright>
+    <itunes:subtitle>en</itunes:subtitle>
+    <itunes:author>NA</itunes:author>
+    <itunes:summary>None</itunes:summary>  
+    <itunes:owner>
+      <itunes:name>None</itunes:name>
+      <itunes:email>none@none.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="http://ecast.space/fullaudiobook/download/75/logo.jpg" />
+    <itunes:category text="Podcasting"/>
+    
+      <item>
+        <title>Moab is my Washpot</title>
+        <itunes:author>Stephen Fry</itunes:author>
+        <itunes:subtitle>Audiobook</itunes:subtitle>
+        <itunes:summary>Audiobook</itunes:summary>
+        <itunes:image href="http://ecast.space/fullaudiobook/download/75/logo.jpg" />
+        <enclosure url="https://archive.org/download/testmp3testfile/mpthreetest.mp3" length="" type="audio/mpeg"/>
+        <guid>1</guid>
+        <pubDate>Wed Jul 11 2018 21:36:20 GMT+0530 (India Standard Time)</pubDate>
+        <itunes:duration></itunes:duration>
+      </item>
+    
+  </channel>
+  </rss>
