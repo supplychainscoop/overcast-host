@@ -15,6 +15,6 @@
 <description> A description of your podcast episode </description>
 <itunes:author> Your Name </itunes:author>
 <pubDate> Thu, 16 Jun 2005 5:00:00 PST </pubDate>
-<enclosure url="http://www.yourserver.com/podcast_file.mp3" length="3174554" type="audio/mpeg" /> </item>
+<enclosure url="https://github.com/supplychainscoop/overcast-host/blob/master/101%20_%20UFO%20in%20Kushiro.mp3" length="3174554" type="audio/mpeg" /> </item>
 </channel>
 </rss>
