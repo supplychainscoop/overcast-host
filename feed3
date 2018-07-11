@@ -26,6 +26,14 @@
 <enclosure url="https://www.dropbox.com/s/rpk21xfuak8cmpl/Stephen%20Fry%20-%20Moab%20Is%20My%20Washpot.m4b?" type="audio/mpeg" />
 </item>
 
+<item>
+<title>
+Shantaram_MP3WRAPUse Mp3Splt to obtain original tracks This file is wrapped with Mp3Wrap. Get mp3splt, the free tool to split original files at http://mp3splt.sourceforge.net. Please do not remove this comment.
+</title>
+<enclosure url="http://0.0.0.0:5000/static/Shantaram_MP3WRAP.mp3" type="audio/mpeg"/>
+<quid>http://0.0.0.0:5000/static/Shantaram_MP3WRAP.mp3</quid>
+<pubDate>Fri, 29 Jun 2018 06:19:34 -0000</pubDate>
+</item>
 
 </channel>
 </rss>
