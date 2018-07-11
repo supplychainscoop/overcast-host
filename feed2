@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/DTDs/Podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
-<title> Title of your site </title>
+<title> Audiobooks </title>
 <description> A description of your podcast show </description>
 <itunes:author>Your Name </itunes:author>
 <link> http://www.yourserver.com/YourPodcastHomepage/ </link>
@@ -15,6 +15,17 @@
 <description> A description of your podcast episode </description>
 <itunes:author> Your Name </itunes:author>
 <pubDate> Thu, 16 Jun 2005 5:00:00 PST </pubDate>
-<enclosure url="https://tmpfiles.org/dl/10832/101_UFOinKushiro.mp3" type="audio/mpeg" /> </item>
+<enclosure url="https://tmpfiles.org/dl/10832/101_UFOinKushiro.mp3" type="audio/mpeg" />
+</item>
+
+<item>
+<title> Moab is my Washpot </title>
+<description>Stephen Fry</description>
+<itunes:author> Stephen Fry </itunes:author>
+<pubDate> Thu, 16 Jun 2006 5:00:00 PST </pubDate>
+<enclosure url="http://192.168.1.115:8000/Audiobooks%20by%20Stephen%20Fry/Stephen%20Fry%20-%20Moab%20Is%20My%20Washpot.m4b" type="audio/mpeg" />
+</item>
+
+
 </channel>
 </rss>
