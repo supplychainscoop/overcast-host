@@ -37,5 +37,27 @@
 
 
 
+
+
+
+<item>
+<title> Signal and Noise</title>
+<description>Nate Silver</description>
+<itunes:author>Nate Silver </itunes:author>
+<pubDate> Thu, 18 Jun 2010 5:00:00 PST </pubDate>
+<enclosure url="https://dl.dropboxusercontent.com/s/q5fvvhvdqx163zb/Signal_MP3WRAP.mp3?dl=0" type="audio/mpeg" />
+</item>
+
+
+<item>
+<title> Fry Chronicles</title>
+<description>Stephen Fry</description>
+<itunes:author>Stephen Fry </itunes:author>
+<pubDate> Thu, 16 Jun 2010 5:00:00 PST </pubDate>
+<enclosure url="https://dl.dropboxusercontent.com/s/xem2amas741skbq/FryChronicles_MP3WRAP.mp3?dl=0" type="audio/mpeg" />
+</item>
+
+
+
 </channel>
 </rss>
