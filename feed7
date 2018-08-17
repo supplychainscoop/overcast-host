@@ -12,13 +12,7 @@
 
 
 
-<item>
-<title> Mythos</title>
-<description>Stephen Fry</description>
-<itunes:author>Stephen Fry </itunes:author>
-<pubDate> Sat, 20 Jun 2010 5:00:00 PST </pubDate>
-<enclosure url="https://dl.dropboxusercontent.com/s/kdd0glq22gh6soi/Mythos%20%28Unabridged%29.m4b?dl=0" type="audio/mpeg" />
-</item>
+
 
 <item>
 <title> Lying</title>
@@ -41,7 +35,7 @@
 <description>Stephen Fry</description>
 <itunes:author>Stephen Fry </itunes:author>
 <pubDate> Sat, 20 Jun 2013 5:00:00 PST </pubDate>
-<enclosure url="https://dl.dropboxusercontent.com/s/kdd0glq22gh6soi/Mythos%20%28Unabridged%29.m4b?dl=0" type="audio/mpeg" />
+<enclosure url="https://dl.dropboxusercontent.com/s/kdd0glq22gh6soi/Mythos%20%28Unabridged%29.m4b" type="audio/mpeg" />
 </item>
 
 
