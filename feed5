@@ -10,51 +10,14 @@
 <language>en-us</language>
 <copyright> Copyright Year Your_Name </copyright>
 
-<item>
-<title> This is just a test </title>
-<description> A description of your podcast episode </description>
-<itunes:author> Your Name </itunes:author>
-<pubDate> Thu, 16 Jun 2005 5:00:00 PST </pubDate>
-<enclosure url="https://tmpfiles.org/dl/10832/101_UFOinKushiro.mp3" type="audio/mpeg" />
-</item>
-
-<item>
-<title> Moab is my Washpot </title>
-<description>Stephen Fry</description>
-<itunes:author> Stephen Fry </itunes:author>
-<pubDate> Thu, 16 Jun 2006 5:00:00 PST </pubDate>
-<enclosure url="https://dl.dropboxusercontent.com/s/rpk21xfuak8cmpl/Stephen%20Fry%20-%20Moab%20Is%20My%20Washpot.m4b?dl=0" type="audio/mpeg" />
-</item>
 
 
 <item>
-<title> Kid stays in the Picture</title>
-<description>Robert Evans</description>
-<itunes:author>Robert Evans </itunes:author>
-<pubDate> Thu, 16 Jun 2009 5:00:00 PST </pubDate>
-<enclosure url="https://dl.dropboxusercontent.com/s/u8u40dygzyog1bl/KidStays_MP3WRAP.mp3" type="audio/mpeg" />
-</item>
-
-
-
-
-
-
-<item>
-<title> Signal and Noise</title>
-<description>Nate Silver</description>
-<itunes:author>Nate Silver </itunes:author>
-<pubDate> Thu, 18 Jun 2010 5:00:00 PST </pubDate>
-<enclosure url="https://dl.dropboxusercontent.com/s/q5fvvhvdqx163zb/Signal_MP3WRAP.mp3?dl=0" type="audio/mpeg" />
-</item>
-
-
-<item>
-<title> Fry Chronicles</title>
+<title> Mythos</title>
 <description>Stephen Fry</description>
 <itunes:author>Stephen Fry </itunes:author>
-<pubDate> Thu, 16 Jun 2010 5:00:00 PST </pubDate>
-<enclosure url="https://dl.dropboxusercontent.com/s/xem2amas741skbq/FryChronicles_MP3WRAP.mp3?dl=0" type="audio/mpeg" />
+<pubDate> Sat, 20 Jun 2010 5:00:00 PST </pubDate>
+<enclosure url="https://www.dropbox.com/s/kdd0glq22gh6soi/Mythos%20%28Unabridged%29.m4b?dl=0" type="audio/mpeg" />
 </item>
 
 
