@@ -55,5 +55,33 @@
 </item>
 
 
+
+<item>
+<title>Very Good Jeeves</title>
+<description>PG Wodehouse</description>
+<itunes:author>PG Wodehouse</itunes:author>
+<pubDate> Fri, 23 Aug 2013 5:00:00 PST </pubDate>
+<enclosure url="https://transfer.sh/mTSGi/VGJ.mp3" type="audio/mpeg" />
+</item>
+
+<item>
+<title> Right Ho, Jeeves</title>
+<description>PG Wodehouse</description>
+<itunes:author>PG Wodehouse</itunes:author>
+<pubDate> Fri, 23 Aug 2013 5:00:00 PST </pubDate>
+<enclosure url="https://transfer.sh/11SLBJ/RightJeeves.mp3" type="audio/mpeg" />
+</item>
+
+<item>
+<title> Thank you Jeeves</title>
+<description>PG Wodehouse</description>
+<itunes:author>PG Wodehouse</itunes:author>
+<pubDate> Fri, 23 Aug 2013 5:00:00 PST </pubDate>
+<enclosure url="https://transfer.sh/Bo1UC/ThankYouJeeves.mp3" type="audio/mpeg" />
+</item>
+
+
+
+
 </channel>
 </rss>
