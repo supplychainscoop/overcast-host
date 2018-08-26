@@ -83,5 +83,25 @@
 
 
 
+
+<item>
+<title>Lincoln in the Bardo 1</title>
+<description>George Saunders</description>
+<itunes:author>George Saunders</itunes:author>
+<pubDate> Fri, 23 Aug 2013 5:00:00 PST </pubDate>
+<enclosure url="https://transfer.sh/d1fad/Book%20I%20%201-55.mp3" type="audio/mpeg" />
+</item>
+<item>
+<title> Lincoln in the Bardo 2</title>
+<description>George Saunders</description>
+<itunes:author>George Saunders</itunes:author>
+<pubDate> Fri, 23 Aug 2013 5:00:00 PST </pubDate>
+<enclosure url="https://transfer.sh/N8T0N/Book%20II%20%2056-108.mp3" type="audio/mpeg" />
+</item>
+
+
+
+
+
 </channel>
 </rss>
