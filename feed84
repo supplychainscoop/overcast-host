@@ -37,11 +37,11 @@
 </item>
 
 <item>
-<title>6</title>
-<description>DFW</description>
-<itunes:author>DFW</itunes:author>
+<title>1Q84</title>
+<description>Haruki Murakami</description>
+<itunes:author>Murakami Audiobook</itunes:author>
 <pubDate> Sat, 24 Aug 2013 5:00:00 PST </pubDate>
-<enclosure url="ftp://dietpi:dietpi@toshniwalhome.ddns.net/downloads/IQ84%20FINAL/1Q84UnabridgedPart6_mp3.mp3" type="audio/mpeg" />
+<enclosure url="https://overcastfeed.s3.us-east-2.amazonaws.com/bots_MP3WRAP.mp3" type="audio/mpeg" />
 </item>
 
 
